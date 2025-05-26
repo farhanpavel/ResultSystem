@@ -120,10 +120,10 @@ export default function Benefit() {
               </div>
               <div className="md:w-2/3">
                 <p className="text-xl italic mb-6">
-                  "Managing results used to be a chaotic, time-consuming task.
+                  Managing results used to be a chaotic, time-consuming task.
                   Now it takes minutes. Students and teachers love the
                   simplicity, and we’re seeing real improvements in accuracy and
-                  efficiency."
+                  efficiency.
                 </p>
                 <div>
                   <p className="font-bold text-lg">Dr. Nazmul Huda</p>

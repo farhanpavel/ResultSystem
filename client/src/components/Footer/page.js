@@ -20,7 +20,7 @@ export default function Footer() {
               />
             </Link>
             <p className="text-gray-600 mt-4 text-xs ">
-              Do you have any questions about Pavel? See the list for our most
+              Do you have any questions about Us? See the list for our most
               frequently asked questions. If your questions is not listed here,
               then please contact us.
             </p>
@@ -200,7 +200,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <div className="border-t border-gray-200 mt-12 pt-6 text-center font-semibold text-xs text-occean">
-          <p>All Right Reserved - Team X-OR</p>
+          <p>All Right Reserved </p>
         </div>
       </div>
     </footer>

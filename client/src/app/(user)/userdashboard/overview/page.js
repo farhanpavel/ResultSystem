@@ -213,7 +213,7 @@ export default function OverviewPage() {
                       Go to Settings
                     </Button>
                     <p className="text-sm text-gray-500">
-                      You'll be able to view your results after setting up your
+                      You&lsquo;ll be able to view your results after setting up your
                       roll number
                     </p>
                   </div>
